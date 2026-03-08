@@ -1,6 +1,6 @@
 import fs from 'node:fs/promises';
 import process from 'node:process';
-import path from 'path';
+import path from 'node:path';
 
 
 const snapshot = async () => {
